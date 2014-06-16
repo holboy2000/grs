@@ -36,3 +36,6 @@ setup(name='grs',
           'Topic :: Office/Business :: Financial :: Investment',
           ],
      )
+
+
+#this is the first commit of xie on samsung
